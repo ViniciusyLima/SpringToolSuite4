@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>CADASTRO</title>
+</head>
+<body>
+<h2>Cadastro</h2>
+	<form action="list.jsp">
+	<label>Nome:</label>
+	<input type="text" name="nome" id="nome">
+	<br>
+	<label>Idade</label>
+	<input type="text" name="idade" id="idade">
+	<br>
+	<input type="submit"><input type="reset">
+	</form>
+</body>
+</html>

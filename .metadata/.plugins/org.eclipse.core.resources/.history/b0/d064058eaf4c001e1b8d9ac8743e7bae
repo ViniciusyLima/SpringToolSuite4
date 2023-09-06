@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.texto {
+	display: block;
+	flex-direction: column;
+	text-align: center;
+	align-items: center;
+	background-color: blue;
+}
