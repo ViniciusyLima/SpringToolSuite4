@@ -1,6 +1,0 @@
-@charset "UTF-8";
-
-.texto {
-	flex-direction: column;
-	text-align: center;
-}
