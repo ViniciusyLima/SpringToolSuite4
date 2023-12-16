@@ -5099,3 +5099,24 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.core.resources.IResou
 	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:221)
 	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-16 12:46:04.886
+!MESSAGE Classpath changed for project: Aula298_ProjetoJPAMaven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-16 12:46:05.102
+!MESSAGE Classpath changed for project: Aula298_ProjetoJPAMaven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-16 12:46:05.103
+!MESSAGE Boot project ADDED: Aula298_ProjetoJPAMaven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-16 12:46:05.197
+!MESSAGE Classpath changed for project: Aula298_ProjetoJPAMaven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-16 12:46:13.569
+!MESSAGE Classpath changed for project: Aula298_ProjetoJPAMaven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-16 12:46:14.969
+!MESSAGE Classpath changed for project: Aula292_JPA
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-16 12:46:14.970
+!MESSAGE Classpath changed for project: Aula293_JPA_Maven
