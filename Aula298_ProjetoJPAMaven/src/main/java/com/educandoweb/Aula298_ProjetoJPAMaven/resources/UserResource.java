@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.educandoweb.Aula298_ProjetoJPAMaven.entities.User;
 import com.educandoweb.Aula298_ProjetoJPAMaven.services.UserService;
-import org.springframework.web.bind.annotation.RequestParam;
 
 
 @RestController
